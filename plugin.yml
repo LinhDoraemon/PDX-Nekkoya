@@ -1,0 +1,9 @@
+name: PDXNekkoya
+version: EARLY-ACCESS-v1.0.1a
+author: LinhDoraemon
+main: pdx.nekkoya48.main.PDXNekkoya
+description: Plugin may moc tot nhat Trai Dat
+depend: [PDXCore, PDXEconomy]
+api-version: 1.15
+commands:
+  nekkoya:
